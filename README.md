@@ -1,4 +1,4 @@
-# java-method
+# java-methods
 java 20441 2019a mmn 14
 
 The project was written as part of the course "20441 - Introduction to Computer Science Using Java" in my degree (Computer Science at the Open University).
